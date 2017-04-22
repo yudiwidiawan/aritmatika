@@ -20,6 +20,8 @@ public class MainPerhitungan {
         prk.display();
         pertambahan prt = new pertambahan();
         prt.display();
+        Pembagian pmb = new Pembagian();
+        pmb.display();
     }
     
 }
